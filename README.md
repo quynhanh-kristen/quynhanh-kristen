@@ -1,4 +1,8 @@
-### Hi there 👋
+# Helu 👋
+
+#####  Hope you can find some cool, usefull, stupid, or funny thing here :grin:
+
+<a href="https://app.daily.dev/Quanh"><img src="https://api.daily.dev/devcards/7dcaa949115443c094735bc84420dacc.png?r=hu2" width="400" alt="Anh Nguyen's Dev Card"/></a>
 
 <!--
 **quynhanh-kristen/quynhanh-kristen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
